@@ -1,6 +1,6 @@
 # Grover's Search Algorithm — Q# Simulator Project
 
-> Phase 2–3 deliverable for the one-month Quantum Programming Onboarding Plan.  
+
 > This project implements and validates **Grover's Search Algorithm** in Microsoft Q#, using only a local simulator.
 
 ## Project Overview
