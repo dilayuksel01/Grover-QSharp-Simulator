@@ -1,7 +1,5 @@
 // ============================================================
-// Grover's Search Algorithm - Q# Demo (Simulator Only)
-// Project: One-Month Quantum Programming Onboarding Plan
-// Phase 2 (Weeks 3-4): Project Implementation
+// Grover's Search Algorithm - Q# Demo 
 // ============================================================
 
 import Std.Convert.*;
