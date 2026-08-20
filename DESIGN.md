@@ -1,7 +1,6 @@
 # Design Document: Grover's Search Algorithm in Q#
 
-> Phase 2, Week 3 — Design & Setup milestone  
-> This document describes the design of a beginner-friendly Grover Search project implemented in Microsoft Q# and executed only on a local simulator.
+> This document describes the design of Grover Search project implemented in Microsoft Q# and executed only on a local simulator.
 
 ## 1. Project Goal
 
