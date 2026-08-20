@@ -1,6 +1,5 @@
 # Test Results and Interpretation
 
-> **Phase 3, Weeks 5–6 — Testing, Validation & Documentation Deliverable**  
 > This document was prepared to test the Grover Search Q# project on a simulator, compare the results with theoretical expectations, and interpret the debug observations.
 
 ## 1. Theoretical Expectations
